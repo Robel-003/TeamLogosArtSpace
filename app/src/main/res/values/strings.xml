@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="Hawks">Atlanta Hawks</string>
+    <string name="Celtics">Boston Celtics</string>
+    <string name="Nets">Brooklyn Nets</string>
+    <string name="Hornets">Charlotte Hornets</string>
+    <string name="Bulls">Chicago Bulls</string>
+    <string name="Cavaliers">Cleveland Cavaliers</string>
+    <string name="Mavericks">Dallas Mavericks</string>
+    <string name="Nuggets">Denver Nuggets</string>
+    <string name="Pistons">Detroit Pistons</string>
+    <string name="Warriors">Golden State Warriors</string>
+    <string name="Rockets">Houston Rockets</string>
+    <string name="Pacers">Indiana Pacers</string>
+    <string name="Lakers">Los Angeles Lakers</string>
+    <string name="Clippers">Los Angeles Clippers</string>
+    <string name="Grizzlies">Memphis Grizzlies</string>
+    <string name="Heat">Miami Heat</string>
+    <string name="Bucks">Milwaukee Bucks</string>
+    <string name="Timberwolves">Minnesota Timberwolves</string>
+    <string name="Pelicans">New Orleans Pelicans</string>
+    <string name="Knicks">New York Knicks</string>
+    <string name="Thunder">Oklahoma City Thunder</string>
+    <string name="Magic">Orlando Magic</string>
+    <string name="Sixers">Philadelphia 76ers</string>
+    <string name="Suns">Phoenix Suns</string>
+    <string name="Blazers">Portland Blazers</string>
+    <string name="Kings">Sacramento Kings</string>
+    <string name="Spurs">San Antonio Spurs</string>
+    <string name="Raptors">Toronto Raptors</string>
+    <string name="Jazz">Utah Jazz</string>
+    <string name="Wizards">Washington Wizards</string>
+</resources>
